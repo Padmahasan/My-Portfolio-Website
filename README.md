@@ -35,6 +35,6 @@ I appreciate any suggestions, feedback, or contributions to enhance this persona
 
 If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
 
-<img src="https://github.com/Padmahasan/My-Portfolio-Website/blob/main/assets/img/new.png?raw=true" width="1300" height="500">
+![Portfolio](https://github.com/Padmahasan/My-Portfolio-Website/blob/main/assets/img/new.png?raw=true)
 
 
